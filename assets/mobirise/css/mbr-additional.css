@@ -761,6 +761,8 @@ a {
 .cid-s9WC2wtccm {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-s9WC2wtccm nav.navbar {
   position: fixed;
@@ -860,7 +862,8 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(230, 198, 59, 0.4);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #e6c63b;
 }
 .cid-s9WC2wtccm .navbar.opened {
   transition: all .3s;
@@ -1233,6 +1236,8 @@ a {
 .cid-s9WFAkDcMG {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-s9WFAkDcMG nav.navbar {
   position: fixed;
@@ -1332,7 +1337,8 @@ a {
   min-height: 70px;
   transition: all .3s;
   border-bottom: 1px solid transparent;
-  background: rgba(230, 198, 59, 0.4);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #e6c63b;
 }
 .cid-s9WFAkDcMG .navbar.opened {
   transition: all .3s;
