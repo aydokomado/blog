@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dokomado-blog",
-    "currentPage": "index.html",
+    "currentPage": "blog1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -59,7 +59,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Dokomado - blog",
+        "title": "dokomado - blog",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -618,7 +618,7 @@
     },
     "blog1.html": {
       "settings": {
-        "title": "どこ窓オフィスをキックオフ",
+        "title": "dokomado - blog",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
